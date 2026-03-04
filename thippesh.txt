@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-hello world
-
-hello man
-=======
-hello world
->>>>>>> CDV
